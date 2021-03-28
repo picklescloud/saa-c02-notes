@@ -2,12 +2,12 @@
 
 ## S3 Security
 
-S3 is private by default
-resource policy (attached to a bucket, who can access)
-allow/deny same or different accounts
-"Principal" in resource policies
-Identity + Resource policies
-Block Pubic Access
+S3 is private by default.
+resource policy (attached to a bucket, who can access).
+allow/deny same or different accounts.
+"Principal" in resource policies.
+Identity + Resource policies.
+Block Pubic Access.
 
 ## Static Website Hosting
 
