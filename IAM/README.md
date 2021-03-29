@@ -2,14 +2,14 @@
 
 ## IAM Identity Policies
 
-IAM policy document : JSON file
-1+ Statement (SID : statement ID)
-1 : Explicit deny (take priority)
-2 : Explicit allow  
-deny allow deny (default implicit)
-Inline ( 3 isolated policies, use for special or exceptional allow or deny)
-Managed policy (reusable and low management overhead)
-	manage by AWS or Customer manage
+IAM policy document : JSON file\
+1+ Statement (SID : statement ID)\
+1 : Explicit deny (take priority)\
+2 : Explicit allow  \
+deny allow deny (default implicit)\
+Inline ( 3 isolated policies, use for special or exceptional allow or deny)\
+Managed policy (reusable and low management overhead)\
+	manage by AWS or Customer manage\
 
 ## IAM Users
 
