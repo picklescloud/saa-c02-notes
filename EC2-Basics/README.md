@@ -72,7 +72,7 @@ R5bn.8xlarge : instance type
 - dn : Additional Capabilities
 - 8xlarge : Instance Size
 
-![](.\EC2-Instance_type.png)
+![](EC2-Instance_type.png)
 
 ## Storage Refresher
 
@@ -112,7 +112,7 @@ Snapshot (backup) into S3, create volume from snapshot
 
 Billed based on GB-month (some case performance)
 
-![](.\EBS_Architecture.png)
+![](EBS_Architecture.png)
 
 ## EBS Volume Types : General Purpose SSD
 
